@@ -1,0 +1,11 @@
+body
+{
+    text-align:center;
+    background-position: center;
+    background-size: cover;
+}
+#my_canvas
+{
+    border-width:5; 
+    border-style:groove
+}
